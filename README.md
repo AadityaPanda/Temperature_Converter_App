@@ -33,7 +33,7 @@ After installing Java, you can follow these steps to run the app:
 1. Clone or download this repository to your local machine.
 
    ```
-   git clone https://github.com/AadityaPanda/temperature-converter.git
+   git clone (https://github.com/AadityaPanda/Temperature_Converter_App.git)
    ```
 
 2. Open a terminal or command prompt and navigate to the project directory.
