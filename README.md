@@ -2,8 +2,9 @@
 
 This is a simple temperature converter app written in Java. It allows users to easily convert temperatures between Celsius and Fahrenheit. Additionally, it features a clear and user-friendly restart button to reset the conversion fields.
 
-## Screenshots
+## Screenshot and Demo
 ![Screenshot_20230903_221325](https://github.com/AadityaPanda/Temperature_Converter_App/assets/95534176/3b4621ee-e228-4e93-a22e-d7c4ce958243)
+https://github.com/AadityaPanda/Temperature_Converter_App/assets/95534176/bbd9b656-9cab-4f24-9ad7-8614279f15ad
 
 ## Table of Contents
 
