@@ -12,8 +12,6 @@ https://github.com/AadityaPanda/Temperature_Converter_App/assets/95534176/bbd9b6
 - [Usage](#usage)
 - [Installation](#installation)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
