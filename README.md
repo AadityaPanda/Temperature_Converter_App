@@ -1,68 +1,70 @@
-# Temperature Converter App
+# Temperature Converter App 🌡️
 
-This is a simple temperature converter app written in Java. It allows users to easily convert temperatures between Celsius and Fahrenheit. Additionally, it features a clear and user-friendly restart button to reset the conversion fields.
+A simple, intuitive Java application for converting temperatures between Celsius and Fahrenheit. The app is designed to offer a user-friendly interface, allowing quick conversions and providing a convenient restart button to reset input fields.
 
-## Screenshot and Demo
-![Screenshot_20230903_221325](https://github.com/AadityaPanda/Temperature_Converter_App/assets/95534176/3b4621ee-e228-4e93-a22e-d7c4ce958243)
-https://github.com/AadityaPanda/Temperature_Converter_App/assets/95534176/bbd9b656-9cab-4f24-9ad7-8614279f15ad
+![App Screenshot](https://github.com/AadityaPanda/Temperature_Converter_App/assets/95534176/bbd9b656-9cab-4f24-9ad7-8614279f15ad)
+
+---
 
 ## Table of Contents
-
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
 - [How to Use](#how-to-use)
 
+---
+
 ## Features
 
-- Converts temperatures between Celsius and  Fahrenheit.
-- Provides a clear and intuitive user interface.
-- Offers a restart button to reset all conversion fields.
+- **Easy Temperature Conversion:** Converts between Celsius and Fahrenheit in real time.
+- **User-Friendly Interface:** Clean and accessible layout for smooth user experience.
+- **Restart Functionality:** Quickly reset input fields with a restart button.
 
 ## Usage
 
-This temperature converter app is designed to make temperature conversions quick and hassle-free. Whether you're a student learning about temperature units or a professional needing a quick conversion, this app has you covered.
+The Temperature Converter App is ideal for students, professionals, or anyone needing quick temperature conversions. Whether you're studying temperature units or need a quick conversion in your work, this app makes it easy!
+
+---
 
 ## Installation
 
-To use this app, you need to have Java installed on your computer. You can download and install Java from the [official website](https://www.oracle.com/java/technologies/javase-downloads.html).
+To get started, make sure Java is installed on your system. [Download Java here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) if needed.
 
-After installing Java, you can follow these steps to run the app:
+### Steps to Install and Run:
 
-1. Clone or download this repository to your local machine.
-
-   ```
-   git clone (https://github.com/AadityaPanda/Temperature_Converter_App.git)
-   ```
-
-2. Open a terminal or command prompt and navigate to the project directory.
-
-   ```
-   cd temperature-converter
+1. **Clone the Repository**  
+   Clone or download the repository to your local machine.
+   ```bash
+   git clone https://github.com/AadityaPanda/Temperature_Converter_App.git
    ```
 
-3. Compile the Java source code.
-
+2. **Navigate to the Project Directory**  
+   Open a terminal and navigate to the downloaded directory.
+   ```bash
+   cd Temperature_Converter_App
    ```
+
+3. **Compile the Source Code**  
+   Compile the Java source file to ensure everything is set up.
+   ```bash
    javac TemperatureConverter.java
    ```
 
-4. Run the application.
-
-   ```
+4. **Run the Application**  
+   Launch the app using:
+   ```bash
    java TemperatureConverter
    ```
 
+---
+
 ## How to Use
 
-1. Launch the app by following the installation instructions.
+1. **Launch the App**  
+   Open the app following the installation steps above.
 
-2. The app will open with fields to enter temperatures in Celsius and Fahrenheit.
+2. **Enter Temperature**  
+   Type a temperature in either the Celsius or Fahrenheit field. The app will instantly display the conversion in the corresponding field.
 
-3. Enter the temperature value in one of the fields.
-
-4. The app will automatically update the other two fields with the converted temperatures.
-
-5. To reset the conversion fields and start over, simply click the "Restart" button.
-
-6. You can continue to enter new values or reset the fields as needed.
+3. **Reset as Needed**  
+   Press the "Restart" button to clear all fields and start over.
