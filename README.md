@@ -3,17 +3,13 @@
 A simple, intuitive Java application for converting temperatures between Celsius and Fahrenheit. The app is designed to offer a user-friendly interface, allowing quick conversions and providing a convenient restart button to reset input fields.
 
 ### Demo
-(https://github.com/AadityaPanda/Temperature_Converter_App/assets/95534176/bbd9b656-9cab-4f24-9ad7-8614279f15ad)
-
----
+https://github.com/user-attachments/assets/0b774ce7-8f34-47fd-911a-c6dce44ccbc7
 
 ## Table of Contents
 - [Features](#features)
 - [Usage](#usage)
 - [Installation](#installation)
 - [How to Use](#how-to-use)
-
----
 
 ## Features
 
@@ -24,8 +20,6 @@ A simple, intuitive Java application for converting temperatures between Celsius
 ## Usage
 
 The Temperature Converter App is ideal for students, professionals, or anyone needing quick temperature conversions. Whether you're studying temperature units or need a quick conversion in your work, this app makes it easy!
-
----
 
 ## Installation
 
@@ -56,8 +50,6 @@ To get started, make sure Java is installed on your system. [Download Java here]
    ```bash
    java TemperatureConverter
    ```
-
----
 
 ## How to Use
 
